@@ -1,13 +1,9 @@
 ### Hi, there! It's Prashanth A! 👋  
 
 <img
-align="right"
-src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg"
-width="280"
-height="280"
-style="margin: 100px 0 0px px; border-radius: 150%; object-fit: cover;"
-alt="Profile Image"
-/>
+align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+
+
 
 
 ## 🚀 About Me
