@@ -5,7 +5,7 @@
   src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg"
   width="280"
   height="280"
-  style="margin-top:900 px; border-radius: 100 %; object-fit: cover; padding-top: 70 px;padding-left:0 px; background-color:#000000;border-radius:120 px"
+  style="margin-top:900 px; border-radius: 100 %; object-fit: cover; padding-top: 70 px;padding-left background-color:#000000; background-color:#000000;border-radius:120 px"
   alt="Profile Image"
 />
 
