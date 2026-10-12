@@ -1,6 +1,13 @@
 ### Hi, there! It's Prashanth A! 👋  
 
-<img align='right' src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg" width="230" height="230 margin-top: 30px; border-radius: 50% ;object-fit: cover>
+<img
+  align="right"
+  src="https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg"
+  width="230"
+  height="230"
+  style="margin-top: 30px; border-radius: 50%; object-fit: cover;"
+  alt="Profile Image"
+/>
 
 ## 🚀 About Me
 
